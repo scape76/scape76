@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scape76
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding & editing
 - 🌱 I’m currently learning html&css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

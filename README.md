@@ -2,7 +2,7 @@ Hello, I am a Front-end developer from Ukraine. I love creating stuff and learni
 - 🎓 Always trying to write clean and high-quality code.
 - 💡 Aiming at usability and code performance.
 - 📖 Love learning new technologies
-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scape76)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scape76)](https://github.com/anuraghazra/github-readme-stats)
+#Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scape76)](https://github.com/anuraghazra/github-readme-stats)

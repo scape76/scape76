@@ -1,8 +1,5 @@
-Hello, I am a programmer from Ukraine. I love creating stuff and learning something new. 
-Currently, I am intrested in web development.
-- 🎓 Always trying to write clean and high-quality code.
-- 💡 Aiming at usability and code performance.
-- 📖 Love learning new technologies
+Hello. I love creating stuff and learning new technologies. 
+I am intrested in web development.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scape76)](https://github.com/anuraghazra/github-readme-stats) </br>
 # Languages:
